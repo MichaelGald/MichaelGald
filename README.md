@@ -38,10 +38,9 @@ El frontend está construido utilizando React y estilizado con Tailwind CSS, pro
 ## 🤝 Personas Contribuyentes  
 Agradecimientos especiales a las personas que contribuyeron al proyecto:  
 
-- **[Anner Josue Henriquez Reyes ]**  
-- **[Danilo Isaac Vides Chicas ]**
-- **[Ana Victoria Henríquez Jiménez]**  
-- **[Michael Andrey Galdamez Martinez]**  
-- **[Erick Ernesto Maldonado López]**  
-- **[Delis Alexander Mejia Garcia]**  
-
+- **[Anner Josue Henriquez Reyes ](https://github.com/annerh3)**  
+- **[Danilo Isaac Vides Chicas ](https://github.com/IsaacV04)**
+- **[Ana Victoria Henríquez Jiménez](https://github.com/anyta58)**  
+- **[Michael Andrey Galdamez Martinez](https://github.com/MichaelGald)**  
+- **[Erick Ernesto Maldonado López](https://github.com/SrHatcher)**  
+- **[Delis Alexander Mejia Garcia](https://github.com/Al3x19)**  
