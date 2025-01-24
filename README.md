@@ -1,12 +1,19 @@
 # 💡 ClassNotes-FE 
-**[ClassNotes-FE]**  
+**[Frontend del Proyecto ClassNotes]**  
 ---  
 
-## 📖 Descripción del Proyecto  
-Este proyecto tiene como objetivo ayudar a los maestros tener su propio espacio de trabajo donde solo ellos puedan manjar las notas de sus alumnos sin importar los diferentes centros educativos que ellos esten trabajando.  
+## 📖 Descripción del Repositorio
+Este repositorio contiene el código del frontend para el proyecto ClassNotes, una aplicación diseñada para proporcionar a los maestros un espacio de trabajo personal donde puedan gestionar de manera eficiente las notas, asistencia, evaluaciones y notificaciones de sus alumnos, sin importar los diferentes centros educativos en los que trabajen.
+
+El frontend está construido utilizando React y estilizado con Tailwind CSS, proporcionando una experiencia de usuario fluida y moderna.
 
 ### 💻 Funcionalidades
- 
+ - Pantallas para registro e inicio de sesión de usuarios (autenticación).
+ - Listado dinámico de centros educativos con opciones para editar o eliminar.
+ - Formularios para ingresar calificaciones por estudiante y por asignatura.
+ - Opción para exportar reportes en formatos como PDF
+ - Interfaces para marcar asistencia de estudiantes (presente y ausente)
+ - Sistema para enviar notificaciones personalizadas a los usuarios.
 ---  
 
 ## ✔ Estado del Proyecto  
@@ -17,16 +24,17 @@ Este proyecto tiene como objetivo ayudar a los maestros tener su propio espacio 
 
 ---  
 
-## 🛠️ Tecnologías Utilizadas  
-- **Frontend: React, Tailwind CSS**
-- **Otros: **
+## 🛠️ Tecnologías Utilizadas en el Frontend 
+- **Framework: React**
+- **Estilización: Tailwind CSS**
+- **Herramientas adicionales: Se incorporarán otras librerías según sea necesario para el desarrollo (manejo de estado, validación de formularios, etc.).**
 ---  
 
 ## 🤝 Personas Contribuyentes  
 Agradecimientos especiales a las personas que contribuyeron al proyecto:  
 
-- **[ANNER JOSUE HENRIQUEZ REYES]**  
-- **[DANILO ISAAC VIDES CHICAS]**
+- **[Anner Josue Henriquez Reyes ]**  
+- **[Danilo Isaac Vides Chicas ]**
 - **[Ana Victoria Henríquez Jiménez]**  
 - **[Michael Andrey Galdamez Martinez]**  
 - **[Erick Ernesto Maldonado López]**  
