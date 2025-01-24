@@ -25,8 +25,8 @@ El frontend está construido utilizando React y estilizado con Tailwind CSS, pro
 ---  
 
 ## 🛠️ Tecnologías Utilizadas en el Frontend 
-- **Framework: React**
-- **Estilización: Tailwind CSS**
+- **Framework: ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png)**
+- **Estilización: ![Tailwind CSS](https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png)**
 - **Herramientas adicionales: Se incorporarán otras librerías según sea necesario para el desarrollo (manejo de estado, validación de formularios, etc.).**
 ---  
 
