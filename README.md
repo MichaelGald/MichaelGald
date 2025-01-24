@@ -1,3 +1,11 @@
+# 💡 ClassNotes-FE 
+**[Frontend del Proyecto ClassNotes]**  
+---  
+
+## 📖 Descripción del Repositorio
+Este repositorio contiene el código del frontend para el proyecto ClassNotes, una aplicación diseñada para proporcionar a los maestros un espacio de trabajo personal donde puedan gestionar de manera eficiente las notas, asistencia, evaluaciones y notificaciones de sus alumnos, sin importar los diferentes centros educativos en los que trabajen.
+
+El frontend está construido utilizando React y estilizado con Tailwind CSS, proporcionando una experiencia de usuario fluida y moderna.
 
 ### 💻 Funcionalidades
  - Pantallas para registro e inicio de sesión de usuarios (autenticación).
@@ -36,3 +44,4 @@ Agradecimientos especiales a las personas que contribuyeron al proyecto:
 - **[Michael Andrey Galdamez Martinez]**  
 - **[Erick Ernesto Maldonado López]**  
 - **[Delis Alexander Mejia Garcia]**  
+
