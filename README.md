@@ -1,11 +1,3 @@
-# 💡 ClassNotes-FE 
-**[Frontend del Proyecto ClassNotes]**  
----  
-
-## 📖 Descripción del Repositorio
-Este repositorio contiene el código del frontend para el proyecto ClassNotes, una aplicación diseñada para proporcionar a los maestros un espacio de trabajo personal donde puedan gestionar de manera eficiente las notas, asistencia, evaluaciones y notificaciones de sus alumnos, sin importar los diferentes centros educativos en los que trabajen.
-
-El frontend está construido utilizando React y estilizado con Tailwind CSS, proporcionando una experiencia de usuario fluida y moderna.
 
 ### 💻 Funcionalidades
  - Pantallas para registro e inicio de sesión de usuarios (autenticación).
@@ -25,16 +17,15 @@ El frontend está construido utilizando React y estilizado con Tailwind CSS, pro
 ---  
 
 ## 🛠️ Tecnologías Utilizadas en el Frontend 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <span style="background-color: #61DAFB; color: #fff; padding: 5px 10px; border-radius: 5px; font-weight: bold;">
-    React
-  </span>
-  <span style="background-color: #38B2AC; color: #fff; padding: 5px 10px; border-radius: 5px; font-weight: bold;">
-    Tailwind CSS
-  </span>
-</div>
+- **Framework: React**
+- **Estilización: Tailwind CSS**
 - **Herramientas adicionales: Se incorporarán otras librerías según sea necesario para el desarrollo (manejo de estado, validación de formularios, etc.).**
----  
+---
+  
+## ⚙ Instrucciones paso a paso para configurar y ejecutar el proyecto localmente
+
+1. Escribe `npm install` para instalar dependencias
+2. Escribe `npm run dev` para iniciar el servidor de desarrollo.
 
 ## 🤝 Personas Contribuyentes  
 Agradecimientos especiales a las personas que contribuyeron al proyecto:  
@@ -45,4 +36,3 @@ Agradecimientos especiales a las personas que contribuyeron al proyecto:
 - **[Michael Andrey Galdamez Martinez]**  
 - **[Erick Ernesto Maldonado López]**  
 - **[Delis Alexander Mejia Garcia]**  
-
