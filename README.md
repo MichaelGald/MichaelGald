@@ -13,7 +13,7 @@ El frontend está construido utilizando React y estilizado con Tailwind CSS, pro
  - Formularios para ingresar calificaciones por estudiante y por asignatura.
  - Opción para exportar reportes en formatos como PDF
  - Interfaces para marcar asistencia de estudiantes (presente y ausente)
- - Sistema para enviar notificaciones personalizadas a los usuarios.
+ - Sistema para enviar notificaciones personalizadas a los estudiantes.
 ---  
 
 ## ✔ Estado del Proyecto  
@@ -25,8 +25,8 @@ El frontend está construido utilizando React y estilizado con Tailwind CSS, pro
 ---  
 
 ## 🛠️ Tecnologías Utilizadas en el Frontend 
-- **Framework: React**
-- **Estilización: Tailwind CSS**
+- **Framework:** [![React](https://img.shields.io/badge/React-Framework-blue)](https://reactjs.org/)
+- **Estilización:** [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Framework-%2338B2AC)](https://tailwindcss.com/)
 - **Herramientas adicionales: Se incorporarán otras librerías según sea necesario para el desarrollo (manejo de estado, validación de formularios, etc.).**
 ---
   
