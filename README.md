@@ -24,13 +24,6 @@ El frontend está construido utilizando React y estilizado con Tailwind CSS, pro
 - [ ] Completado  
 
 ---  
-
-## 🛠️ Tecnologías Utilizadas en el Frontend 
-- **Framework:** [![React](https://img.shields.io/badge/React-Framework-blue)](https://reactjs.org/)
-- **Estilización:** [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Framework-%2338B2AC)](https://tailwindcss.com/)
-- **Herramientas adicionales: Se incorporarán otras librerías según sea necesario para el desarrollo (manejo de estado, validación de formularios, etc.).**
----
-  
 ## ⚙ Instrucciones paso a paso para configurar y ejecutar el proyecto localmente
 
 1. Escribe `npm install` para instalar dependencias
@@ -45,6 +38,4 @@ Agradecimientos especiales a las personas que contribuyeron al proyecto:
 - **[Michael Andrey Galdamez Martinez](https://github.com/MichaelGald)**  
 - **[Erick Ernesto Maldonado López](https://github.com/SrHatcher)**  
 - **[Delis Alexander Mejia Garcia](https://github.com/Al3x19)**  
-
-
 
