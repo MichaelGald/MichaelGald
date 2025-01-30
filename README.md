@@ -4,7 +4,15 @@
 
 **[Frontend del Proyecto ClassNotes]**  
 ---  
+# 📌 Índice  
 
+1. [📖 Descripción del Repositorio](#-descripción-del-repositorio)  
+2. [💻 Funcionalidades](#-funcionalidades)  
+3. [✔ Estado del Proyecto](#-estado-del-proyecto)  
+4. [⚙ Instrucciones paso a paso para configurar y ejecutar el proyecto localmente](#-instrucciones-paso-a-paso-para-configurar-y-ejecutar-el-proyecto-localmente)  
+5. [🤝 Personas Contribuyentes](#-personas-contribuyentes) 
+
+---
 ## 📖 Descripción del Repositorio
 Este repositorio contiene el código del frontend para el proyecto ClassNotes, una aplicación diseñada para proporcionar a los maestros un espacio de trabajo personal donde puedan gestionar de manera eficiente las notas, asistencia, evaluaciones y notificaciones de sus alumnos, sin importar los diferentes centros educativos en los que trabajen.
 
@@ -40,6 +48,5 @@ Agradecimientos especiales a las personas que contribuyeron al proyecto:
 - **[Michael Andrey Galdamez Martinez](https://github.com/MichaelGald)**  
 - **[Erick Ernesto Maldonado López](https://github.com/SrHatcher)**  
 - **[Delis Alexander Mejia Garcia](https://github.com/Al3x19)**  
-
 
 
